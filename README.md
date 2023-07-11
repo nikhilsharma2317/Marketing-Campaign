@@ -5,7 +5,7 @@ This project focuses on the analysis of marketing campaign data. It loads data f
 
 ## Files in the Repository
 
-- `Marketing Campaign.ipynb`: This is the Jupyter notebook containing the data analysis. It includes operations for loading and cleaning data, and carrying out exploratory data analysis.
+- `Marketing Campaign - 1.ipynb`: This is the Jupyter notebook containing the data analysis. It includes operations for loading and cleaning data, and carrying out exploratory data analysis.
 - `requirements.txt`: This file lists the Python packages required to run the notebook.
 
 ## Installation & Usage
